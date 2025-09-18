@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://radare.arzfun.com/api/tg/photo?id=AgACAgQAAxkBAAEGdtNotDWL41PX7SYOSPCY2pQ8yA0QIwACAskxG8DqUVAmTNU63KJ_VwEAAwIAA3kAAzYE">
+</p>
+
 # 🌦️ Weather App
 
 A simple and responsive **Weather Application** built with HTML, CSS, and JavaScript.  
